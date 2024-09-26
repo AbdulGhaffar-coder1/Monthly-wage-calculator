@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(182, 145, 101);
+    font-family: sans-serif;
+}
+h1,h2{
+    text-align: center;
+    margin-top: 50px;
+}
+input{
+    margin-left: 145px;
+    width: 300px;
+    height: 30px;
+    border: 3px black solid;
+    border-radius: 10px;
+}
+#main-div{
+    width: 600px;
+    height: 600px;
+    background-color: rgb(129, 209, 97);
+    margin-left: 370px;
+    margin-top: 50px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+#total-payment{
+    text-align: center;
+}
+#btn{
+    background-color: chocolate;
+    width: 200px;
+    height: 40px;
+    color: white;
+    border-radius: 10px;
+    margin-left: 195px;
+}
+#btn:hover{
+    background-color: rgb(196, 88, 88);
+    color: black;
+}
